@@ -1,6 +1,6 @@
 <?php
 class Test{
-    public function test(){
+    public static function test(){
         echo 'ice-php: Test::test';
     }
 }
