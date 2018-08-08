@@ -1,15 +1,15 @@
 {
-  "name": "ice-php/testRepository",
+  "name": "ice-php/test-repository",
   "description": "icePHP test",
   "keywords": [
     "icePHP",
     "test"
   ],
-  "homepage": "https://github.com/ice-php/testRepository",
-  "type": "standalone",
+  "homepage": "https://github.com/ice-php/test-repository",
+  "type": "composer",
   "license": "MIT",
   "support": {
-    "source": "https://github.com/ice-php/testRepository"
+    "source": "https://github.com/ice-php/test-repository"
   },
   "authors": [
     {
