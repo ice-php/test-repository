@@ -16,8 +16,7 @@
       "name": "blueice",
       "email": "liyong@nenu.edu.cn"
     }
-  ],
-  "minimum-stability": "stable",
+  ],  
   "require": {
     "php": ">=7.1.0"
   },
