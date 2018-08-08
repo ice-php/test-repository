@@ -1,0 +1,32 @@
+{
+  "name": "ice-php/testRepository",
+  "description": "icePHP test",
+  "keywords": [
+    "icePHP",
+    "test"
+  ],
+  "homepage": "https://github.com/ice-php/testRepository",
+  "type": "standalone",
+  "license": "MIT",
+  "support": {
+    "source": "https://github.com/ice-php/testRepository"
+  },
+  "authors": [
+    {
+      "name": "blueice",
+      "email": "liyong@nenu.edu.cn"
+    }
+  ],
+  "minimum-stability": "stable",
+  "require": {
+    "php": ">=7.1.0"
+  },
+  "autoload": {
+    "psr-4": {
+      "ice-php\\": ""
+    }
+  },
+  "config": {
+    "process-timeout": 1800
+  }
+}
