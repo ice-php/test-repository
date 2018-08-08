@@ -1,4 +1,5 @@
 <?php
+//branch stable
 namespace icePhp\testRepository;
 
 class Test{
